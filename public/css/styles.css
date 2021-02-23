@@ -34,12 +34,15 @@ header {
 h1{
     font-size: 64px;
     margin-bottom: 16px;
+    color:goldenrod;
 }
 
 header a {
-    color: #888888;
+    color:mediumslateblue;
     margin-right: 16px;
     text-decoration: none;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: bold;
 }
 
 input {
@@ -53,4 +56,9 @@ button {
     background: #888888;
     color: white;
     padding: 8px;
+}
+p {
+   font-family: Verdana, Geneva, Tahoma, sans-serif;
+   font-size: medium; 
+   color: #888888;
 }
